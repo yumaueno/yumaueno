@@ -4,8 +4,8 @@ I'm Data scientist and developer from Japan.
 I'm runnning small company [WW inc.](https://wwcorp.co.jp/)
 
 ## my project and media
-1.book database:[yomeru](https://yomeru.jp/)
-2.movie database:[filmatch](https://filmatch.jp/)
+1. book database:[yomeru](https://yomeru.jp/)
+2. movie database:[filmatch](https://filmatch.jp/)
 AI writing tool:[tracky](https://ai-tracky.com/)
 Data scientist Blog：[スタビジ](https://toukei-lab.com/)
 Youtube Channnel：[スタビジ](https://www.youtube.com/@aiby8596)
